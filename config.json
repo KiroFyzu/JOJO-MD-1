@@ -6,6 +6,7 @@
   "pathimg": "./pp.jpg",
   "gcwa": "https://chat.whatsapp.com/Famd1qzPzScBX4TSual41k",
   "gamewaktu": 50,
+  "lolkey": "kiroapi", //https://api.lolhuman.xyz/
   "limitCount": 25,
   "gcount": {
 	"prem": 100000000000,
